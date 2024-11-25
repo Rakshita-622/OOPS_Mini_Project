@@ -29,8 +29,6 @@ The Task Manager aims to help users prioritize their tasks, set reminders, and s
 
 ### Expected Outcomes
 
-By completing this project, users will gain hands-on experience in:
-
 - Building a basic GUI application using Tkinter.
 - Implementing file handling in Python for data persistence.
 - Understanding the fundamentals of CRUD operations (Create, Read, Update, Delete).
@@ -45,4 +43,4 @@ This project serves as a solid foundation for future enhancements, such as addin
 - Data visualization and analytics
 - Integration with other tools and services (e.g., calendar, email)
 
-By building this Task Manager application, users will develop essential skills in Python programming, GUI development, and data storage, preparing them for more complex projects and real-world applications.
+By building this Task Manager application, it will develop essential skills in Python programming, GUI development, and data storage, thus helping to prepare for more complex projects and real-world applications.
